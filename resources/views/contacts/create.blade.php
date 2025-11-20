@@ -1,0 +1,3 @@
+<h1>Add new contacts</h1>
+Here i will have a new contact form...
+<a href="{{ route('contacts.index') }}">Back to all contacts</a>
